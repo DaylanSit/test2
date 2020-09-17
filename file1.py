@@ -1,3 +1,5 @@
-def hello:
-  print("hello")
-  
+I
+had
+an
+amazingly-excellent
+day!
