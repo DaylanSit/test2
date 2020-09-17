@@ -1,5 +1,5 @@
 I
 had
 an
-awesome
+amazingly-awesome
 day!
