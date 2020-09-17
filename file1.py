@@ -1,5 +1,5 @@
 I
-had
+bungo
 an
-amazingly-excellent
+amazingly - excellent
 day!
