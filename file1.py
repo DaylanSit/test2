@@ -4,3 +4,6 @@ def hello:
 ashdklasjdlak;sjkla;sjdaksd
 dfsfkladsfjl;asdf
 jkdflajsl;ask;
+
+def bye:
+  pass
