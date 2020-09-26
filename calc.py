@@ -1,11 +1,12 @@
 def add(a, b):
-    pass
+    return a + b
 
 def subtract(a, b):
-    pass
+    a - b
 
 def multiply(a, b):
     pass
 
 def divide(a, b):
     print("hello")
+    return a/b
