@@ -5,8 +5,8 @@ def subtract(a, b):
     a - b
 
 def multiply(a, b):
-    pass
+    return a * b
 
 def divide(a, b):
     print("hello")
-    return a/b
+    return a / b
