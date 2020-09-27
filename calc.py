@@ -5,8 +5,10 @@ def subtract(a, b):
     a - b
 
 def multiply(x, y):
+    print('lol')
     print('bye')
     return x * y
+
 
 def divide(a, b):
     print("hello")
