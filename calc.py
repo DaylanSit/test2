@@ -5,7 +5,7 @@ def subtract(a, b):
     pass
 
 def multiply(a, b):
-    pass
+    print('lol')
 
 def divide(a, b):
     pass
