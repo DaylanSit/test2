@@ -1,8 +1,9 @@
 def add(a, b, c):
     return a + b + c
 
-def subtract(a, b):
-    b - a
+
+def subtract(a, b, c):
+    return b - a - c
 
 def multiply(x, y):
     print('lol')
